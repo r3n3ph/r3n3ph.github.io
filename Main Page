@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>René Pérez-Hernández</h1>
+<p>Rene is a lawyer and this is a website for his hobbies.</p>
+<a href="./__.html"><h2>Movie</h2></a>
+<a href="./__.html"><h2>Music</h2></a>
+<a href="./__.html"><h2>Blog</h2></a>
+
+</body>
+</html>
